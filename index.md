@@ -1,12 +1,12 @@
 ## 社会科学研究方法课程大纲
 
-<div align=center>授课教师：林景 讲师<div align=center>
+<div align=center> 授课教师：林景 讲师 <div align=center>
 </div>
 
-<div align=center>南京财经大学法学院<div align=center>
+<div align=center> 南京财经大学法学院 <div align=center>
 </div>
 
-<div align=center>linjing@nufe.edu.cn<div align=center>
+<div align=center> linjing@nufe.edu.cn <div align=center>
 </div>
 
 #### 一、课程概要
