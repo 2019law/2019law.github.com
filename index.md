@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 社会科学研究方法课程大纲
 
-You can use the [editor on GitHub](https://github.com/linjing-nufe/teaching/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+授课教师：林景 讲师
+南京财经大学法学院
+linjing@nufe.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 课程概要
+#### 课程宗旨与预期目标
 
-### Markdown
+这是一门为人文社会科学专业学生开设的研究方法课程，旨在教授学生掌握一套完整的社会科学研究方法技巧，内容包括何为社会科学研究、研究方法的类型与适用范围、如何进行研究设计、如何采集和分析数据以及如何基于既有数据进行科学推论等。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+课程的预期目标包括：
 
-```markdown
-Syntax highlighted code block
+- 通过有系统的案例教学，使学生掌握社会科学研究方法的基本概念和实现原理，了解社会科学研究与一般时事评论、新闻调查和非虚构文学作品的区别，懂得欣赏法社会学和社科法学的学术作品，亦清楚基于正确和严格方法的法学研究所应具备的条件；
 
-# Header 1
-## Header 2
-### Header 3
+- 借助案例教学梅花间竹地介绍海内外以社科法学著称的学术机构及其研究成果（包括但不限于法社会学的Ph.D项目、法律与公共政策研究的JSP项目、法律与经济的LEP项目以及犯罪、法律与社会研究的CLS项目、上海交大社科法学领域以及华中高校的“乡土研究”领域），帮助学生深入了解社会科学研究方法应用于法学研究的现状与前景，并为有志于投身该领域的学生未来升学和开展研究提供参考；
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linjing-nufe/teaching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 将课程作业的研究设计与大学生课外学术科技作品竞赛的课题设计相结合，鼓励学生将所学社会科学研究方法应用于实际研究中，培育其对学术的兴趣。
